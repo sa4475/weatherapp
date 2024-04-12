@@ -1,4 +1,3 @@
-Certainly! Here's the updated README file without the sections for contribution, license, and acknowledgments:
 
 ---
 
